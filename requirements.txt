@@ -134,7 +134,7 @@ kubernetes==29.0.0
 langchain==0.2.14
 langchain-cohere==0.2.3
 langchain-community==0.2.12
-langchain-core==0.2.35
+langchain-core==0.2.43
 langchain-experimental==0.0.64
 langchain-google-genai==0.0.11
 langchain-text-splitters==0.2.2
